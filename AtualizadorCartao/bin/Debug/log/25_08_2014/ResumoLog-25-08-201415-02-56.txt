@@ -1,0 +1,5 @@
+############### RESUMO SINCRONISMO ###############
+DATA SINCRONISMO: 25/08/2014
+Cadastros Novos: 8
+Cadastros Atualizados: 0
+Assinaturas Incluidas: 8
